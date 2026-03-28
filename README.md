@@ -45,10 +45,13 @@ streamlit run app.py
 ```
 
 ---
-
 ## Output
 
+### Home Page
+![Home](home.png)
 
+### Recommendations
+![Output](output.png)
 
 ---
 
