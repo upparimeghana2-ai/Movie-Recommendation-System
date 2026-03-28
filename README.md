@@ -50,9 +50,6 @@ streamlit run app.py
 ### Home Page
 ![Home](home.png)
 
-### Recommendations
-![Output](output.png)
-
 ---
 
 ## Future Improvements
