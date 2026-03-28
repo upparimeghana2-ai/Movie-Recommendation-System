@@ -52,6 +52,9 @@ streamlit run app.py
 
 ---
 
+### Recommendations
+![Output](output1.png)
+
 ## Future Improvements
 
 * Add better UI (Netflix-style)
